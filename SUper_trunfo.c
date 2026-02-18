@@ -17,7 +17,7 @@ int main(){
     int populacao2, pontos_turisticos2;
     float PIB2, area2;
 
-        //Inicio do cadastro da primeira carta
+        //________________Inicio do cadastro da primeira carta___________________
 
         printf("\n**Cadastrando primeira carta**\n\n");
 
@@ -42,7 +42,7 @@ int main(){
         printf("Qual a área total em Km² da cidade?");
         scanf(" %f", &area );
 
-        //ìnicio do cadastro da segunda carta
+        //_______________ìnicio do cadastro da segunda carta_____________________-
 
         printf("\n**Cadastrando segunda carta**\n\n");
 
@@ -66,6 +66,9 @@ int main(){
 
         printf("Qual a área total em Km² da cidade?");
         scanf(" %f", &area2 );
+
+
+    //__________________Resultado dos valores inseridos____________________
 
             printf("\n**Primeira carta**\n");
 
